@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nirmalya
+- 👀 I’m interested in Data Engineering & Microservices 
+- 🌱 I’m currently learning Artificial Inteligence
+- 💞️ I’m looking to collaborate on "anything that make impacts to the development community"
+- 📫 Reach me at engineernirmalya@gmail.com
